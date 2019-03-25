@@ -1,0 +1,24 @@
+{
+  "name": "watchtower-latency-profiler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalevalp/watchtower-latency-profiler.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kalevalp/watchtower-latency-profiler/issues"
+  },
+  "homepage": "https://github.com/kalevalp/watchtower-latency-profiler#readme",
+  "dependencies": {
+    "watchtower-log-ingestion": "^1.4.0",
+    "watchtower-monitor": "^1.1.1",
+    "watchtower-recorder": "^1.2.0"
+  }
+}
