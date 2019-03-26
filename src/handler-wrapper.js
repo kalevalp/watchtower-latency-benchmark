@@ -10,4 +10,4 @@ const mock = {
     },
 };
 
-module.exports.hello = recorder.createRecordingHandler('handler.js', 'hello' , mock);
+module.exports.hello = recorder.createRecordingHandler('src/handler.js', 'hello' , mock);

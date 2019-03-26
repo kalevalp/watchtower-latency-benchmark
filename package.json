@@ -17,8 +17,11 @@
   },
   "homepage": "https://github.com/kalevalp/watchtower-latency-profiler#readme",
   "dependencies": {
-    "watchtower-log-ingestion": "^1.4.0",
-    "watchtower-monitor": "^1.1.1",
+    "watchtower-log-ingestion": "^1.5.0",
+    "watchtower-monitor": "^1.2.0",
     "watchtower-recorder": "^1.2.0"
+  },
+  "devDependencies": {
+    "cloudwatch-log-scraper": "^1.1.0"
   }
 }
